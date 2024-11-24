@@ -1,3 +1,7 @@
-![Top Langs](https://github-readme-stats-xi-wheat-75.vercel.app/api/top-langs/?username=fjktkm&count_private=true&hide=html,makefile,css,perl,raku&layout=compact&card_width=467&langs_count=20&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats,hugo-paper,Tracking-Control)
+# 👋 fjktkm
 
-![fjktkm's GitHub stats](https://github-readme-stats-xi-wheat-75.vercel.app/api?username=fjktkm&show_icons=true&count_private=true&exclude_repo=github-readme-stats)
+[![](https://raw.githubusercontent.com/fjktkm/fjktkm/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/fjktkm/fjktkm/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/fjktkm/fjktkm/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/fjktkm/fjktkm/main/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/fjktkm/fjktkm/main/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
